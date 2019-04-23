@@ -1,0 +1,7 @@
+SampleID,Tissue,Factor,Condition,Replicate,bamReads,ControllID,bamControl,Peaks,PeakCaller
+IMR90-H3K4me3-1,IMR90,H3K4me3,Ctr,1,Trieste_Data/ChIP-Seq/bowtie2/chr19-IMR90-H3K4me3-1.bam,IMR90-Input,Trieste_Data/ChIP-Seq/bowtie2/chr19-IMR90-Input.bam,Trieste_Data/ChIP-Seq/MACS2/IMR90-H3K4me3-1_peaks.xls,macs
+IMR90-H3K4me3-2,IMR90,H3K4me3,Ctr,2,Trieste_Data/ChIP-Seq/bowtie2/chr19-IMR90-H3K4me3-2.bam,IMR90-Input,Trieste_Data/ChIP-Seq/bowtie2/chr19-IMR90-Input.bam,Trieste_Data/ChIP-Seq/MACS2/IMR90-H3K4me3-2_peaks.xls,macs
+H1-H3K4me3-1,H1,H3K4me3,Ctr,1,Trieste_Data/ChIP-Seq/bowtie2/chr19-H1-H3K4me3-1.bam,H1-Input,Trieste_Data/ChIP-Seq/bowtie2/chr19-H1-Input-2.bam,Trieste_Data/ChIP-Seq/MACS2/H1-H3K4me3-1_peaks.xls,macs
+H1-H3K4me3-3,H1,H3K4me3,Ctr,3,Trieste_Data/ChIP-Seq/bowtie2/chr19-H1-H3K4me3-3.bam,H1-Input,Trieste_Data/ChIP-Seq/bowtie2/chr19-H1-Input-2.bam,Trieste_Data/ChIP-Seq/MACS2/H1-H3K4me3-1_peaks.xls,macs
+
+
