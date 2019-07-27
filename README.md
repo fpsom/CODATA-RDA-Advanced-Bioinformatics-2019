@@ -24,4 +24,4 @@ All the instruction material is made available under the [Creative Commons Attri
 
 ## Citation
 
-Amel Ghouila, Scott Hazelhurst, Fotis E. Psomopoulos, "CODATA-RDA-Advanced-Bioinformatics-2018", Version 2019.01, August 2019, https://github.com/fpsom/CODATA-RDA-Advanced-Bioinformatics-2019 In progress.
+Amel Ghouila, Phelelani Mpangase, Scott Hazelhurst, Fotis E. Psomopoulos, "CODATA-RDA-Advanced-Bioinformatics-2018", Version 2019.01, August 2019, https://github.com/fpsom/CODATA-RDA-Advanced-Bioinformatics-2019 In progress.
