@@ -19,9 +19,10 @@ _The rendered site is available [here](https://codata-rda-advanced-bioinformatic
 
 ## License
 
-![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)
-All the instruction material is made available under the [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0). Please see [LICENSE](LICENSE.md) for more details.
+[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
+All the instruction material is made available under the [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0). Please see [LICENSE](LICENSE.md) for more details.
 
 ## Citation
 
-Amel Ghouila, Phelelani Mpangase, Scott Hazelhurst, Fotis E. Psomopoulos, "CODATA-RDA-Advanced-Bioinformatics-2018", Version 2019.01, August 2019, https://github.com/fpsom/CODATA-RDA-Advanced-Bioinformatics-2019 In progress.
+Amel Ghouila, Phelelani Mpangase, Scott Hazelhurst, Fotis E. Psomopoulos, "CODATA-RDA-Advanced-Bioinformatics-2019", Version 2019.01, August 2019, https://github.com/fpsom/CODATA-RDA-Advanced-Bioinformatics-2019 In progress.
