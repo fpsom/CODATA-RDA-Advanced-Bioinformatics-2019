@@ -1,5 +1,5 @@
 {
-    "description": "<p>As part of the <a href=\"http://www.codata.org/datatrieste2018\">CODATA-RDA Research Data Science Summer School in Trieste (5-16 Aug 2019)</a>, ELIXIR Training has contributed in the organization of the flanking Advanced Bioinformatics workshop (19-23 Aug 2019) with a particular focus on Machine Learning applications, as part of the ELIXIR Implementation Study on Learning Paths.</p>\n<p>This advanced bioinformatics course provided an overview of the current status of different NGS workflows (variant calling, RNA-Seq, Metagenomics etc), and combined them with the appropriate Machine Learning and Data Mining approaches. After providing a strong foundation of the underlying theory and concepts, the course relied heavily on hand-on exercises and tutorials in order for the participants to directly apply and practice on methods and techniques presented throughout each day.</p>\n<p>The material is organized into five days / modules:</p>\n<ol>\n<li>Experimental Design and Statistics</li>\n<li>Introduction to basic NGS pipelines</li>\n<li>Machine Learning and Data Mining in Bioinformatics</li>\n<li>Metagenomics and Correlation in Life Sciences</li>\n<li>Introduction to Workflows and Nextflow</li>\n</ol>\n<p>All content has been designed to work with the <a href=\"https://readthedocs.org/\">readthedocs</a> platform, with the rendered site being available <a href=\"https://codata-rda-advanced-bioinformatics-2019.readthedocs.io\">here</a>.</p>",
+    "description": "<p>As part of the <a href=\"http://indico.ictp.it/event/8706/\">CODATA-RDA Research Data Science Summer School in Trieste (5-16 Aug 2019)</a>, ELIXIR Training has contributed in the organization of the flanking Advanced Bioinformatics workshop (19-23 Aug 2019) with a particular focus on Machine Learning applications, as part of the ELIXIR Implementation Study on Learning Paths.</p>\n<p>This advanced bioinformatics course provided an overview of the current status of different NGS workflows (variant calling, RNA-Seq, etc), and combined them with the appropriate Machine Learning and Data Mining approaches. After providing a strong foundation of the underlying theory and concepts, the course relied heavily on hand-on exercises and tutorials in order for the participants to directly apply and practice on methods and techniques presented throughout each day.</p>\n<p>The material is organized into four days / modules:</p>\n<ol>\n<li>Experimental Design and Statistics</li>\n<li>Introduction to basic NGS pipelines</li>\n<li>Machine Learning and Data Mining in Bioinformatics</li>\n<li>Introduction to Workflows and Nextflow</li>\n</ol>\n<p>All content has been designed to work with the <a href=\"https://readthedocs.org/\">readthedocs</a> platform, with the rendered site being available <a href=\"https://codata-rda-advanced-bioinformatics-2019.readthedocs.io\">here</a>.</p>",
     "license": "CC-BY-4.0",
     "title": "ELIXIR / CODATA-RDA Research Data Science Advanced Workshop on Bioinformatics",
     "version": "v1.0.0",
@@ -7,17 +7,22 @@
     "publication_date": "2019-09-01",
     "creators": [
         {
-            "affiliation": "Institut Pasteur de Tunis, @h3abionet",
+            "affiliation": "H3ABioNet",
             "name": "Amel Ghouila",
             "orcid": "0000-0002-1597-1841"
         },
         {
-            "affiliation": "University of the Witwatersrand, Johannesburg, South Africa",
+            "affiliation": "Institute of Applied Biosciences - CERTH, GR",
+            "name": "Maria Tsagiopoulou",
+            "orcid": "0000-0002-1653-0327"
+        },
+        {
+            "affiliation": "Sydney Brenner Institute for Molecular Bioscience, University of the Witwatersrand, Johannesburg, South Africa",
             "name": "Phelelani Thokozani Mpangase",
             "orcid": "0000-0001-8280-8940"
         },
         {
-            "affiliation": "University of the Witwatersrand, Johannesburg, South Africa",
+            "affiliation": "Sydney Brenner Institute for Molecular Bioscience, University of the Witwatersrand, Johannesburg, South Africa",
             "name": "Scott Hazelhurst",
             "orcid": "0000-0002-7813-7918"
         },
