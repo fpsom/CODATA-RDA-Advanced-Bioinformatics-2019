@@ -1,6 +1,7 @@
 # ELIXIR/CODATA-RDA Advanced Bioinformatics Workshop
 
 [![Documentation Status](https://readthedocs.org/projects/codata-rda-advanced-bioinformatics-2019/badge/?version=latest)](https://codata-rda-advanced-bioinformatics-2019.readthedocs.io/en/latest/?badge=latest)
+[![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3381145.svg)](https://zenodo.org/record/3381145)
 
 ![ELIXIR, ICSU, CODATA Logos](_static/images/FinalCompleteLogo.png "ELIXIR, RDA, ICSU, CODATA, H3ABioNet, Goblet Logos")
 
@@ -25,4 +26,4 @@ All the instruction material is made available under the [Creative Commons Attri
 
 ## Citation
 
-Amel Ghouila, Phelelani Mpangase, Scott Hazelhurst, Fotis E. Psomopoulos, "CODATA-RDA-Advanced-Bioinformatics-2019", Version 2019.01, August 2019, https://github.com/fpsom/CODATA-RDA-Advanced-Bioinformatics-2019 In progress.
+Amel Ghouila, Maria Tsagiopoulou, Phelelani Thokozani Mpangase, Scott Hazelhurst, & Fotis E. Psomopoulos. (2019, September 1). "ELIXIR / CODATA-RDA Research Data Science Advanced Workshop on Bioinformatics (Version v1.0.0)", Zenodo. http://doi.org/10.5281/zenodo.3381145
